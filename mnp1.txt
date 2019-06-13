@@ -3,4 +3,10 @@ added by master
 Master update /* Before pull PR promote to mani to master*/
 upated 1 by mani
 
+//main method added
+public static void main(String[] args)
+{
+
+}
+
 
